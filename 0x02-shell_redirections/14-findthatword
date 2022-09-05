@@ -1,0 +1,2 @@
+#!/bash/bin
+gref -i "root" /etc/passwd
